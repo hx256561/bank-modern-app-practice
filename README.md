@@ -1,1 +1,0 @@
-# bank-modern-app-practice
